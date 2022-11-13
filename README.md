@@ -1,4 +1,4 @@
-# Hotel booking demands of a city and a resort hotel in Portugal
+# WeRateDogs Twitter data wrangling 
 ## by Kinan Jemil Hassen
 
 ## Dataset
